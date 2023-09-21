@@ -1,1 +1,1 @@
-<video src='[demonstration](https://www.youtube.com/watch?v=UDnXLvgNBeU)https://www.youtube.com/watch?v=UDnXLvgNBeU)' width=180/>
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=UDnXLvgNBeU)
